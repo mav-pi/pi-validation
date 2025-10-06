@@ -1,0 +1,7 @@
+{
+  "name": "InstaBoost: Likes & Follows",
+  "description": A place where you can increase your engangement rate through likes, comments and followers on your instagram profile! Fast and safe!",
+  "permissions": ["username", "payment"],
+  "auth": true,
+  "endpoint": "https://instaboost.netlify.app"
+}
